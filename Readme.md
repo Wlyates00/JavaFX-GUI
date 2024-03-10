@@ -60,14 +60,14 @@ This project is a very simple JavaFX GUI application that allows users to add, r
 2. From the Project2 directory compile **ALL** the Java files using `javac -cp ".;REPLACE_WITH_PATH_TO_DEPENDENCY\lib\*" gui/*.java`.
 
 ```
-// An example class path to the dependecy library
+// An example classpath to the dependency library
 javac -cp ".;C:\Program Files\Java\javafx-sdk-21.0.2\lib\*" gui/*.java
 ```
 
 3. Run the main class from the Project2 directory using `java -cp ".;REPLACE_WITH_PATH_TO_DEPENDENCY\lib\*" gui/MultiShapeTest` to launch the GUI application.
 
 ```
-// Running the compiled classes with an example path to the dependecy library
+// Running the compiled classes with an example path to the dependency library
 java -cp ".;C:\Program Files\Java\javafx-sdk-21.0.2\lib\*" gui/MultiShapeTest
 ```
 
